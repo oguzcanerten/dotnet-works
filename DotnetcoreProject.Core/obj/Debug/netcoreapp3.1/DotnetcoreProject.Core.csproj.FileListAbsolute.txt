@@ -1,0 +1,7 @@
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Core\bin\Debug\netcoreapp3.1\DotnetcoreProject.Core.deps.json
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Core\bin\Debug\netcoreapp3.1\DotnetcoreProject.Core.dll
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Core\bin\Debug\netcoreapp3.1\DotnetcoreProject.Core.pdb
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Core\obj\Debug\netcoreapp3.1\DotnetcoreProject.Core.AssemblyInfoInputs.cache
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Core\obj\Debug\netcoreapp3.1\DotnetcoreProject.Core.AssemblyInfo.cs
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Core\obj\Debug\netcoreapp3.1\DotnetcoreProject.Core.dll
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Core\obj\Debug\netcoreapp3.1\DotnetcoreProject.Core.pdb

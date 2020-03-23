@@ -1,0 +1,13 @@
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Service\bin\Debug\netcoreapp3.1\DotnetcoreProject.Service.deps.json
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Service\bin\Debug\netcoreapp3.1\DotnetcoreProject.Service.dll
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Service\bin\Debug\netcoreapp3.1\DotnetcoreProject.Service.pdb
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Service\bin\Debug\netcoreapp3.1\DotnetcoreProject.Core.dll
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Service\bin\Debug\netcoreapp3.1\DotnetcoreProject.Data.dll
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Service\bin\Debug\netcoreapp3.1\DotnetcoreProject.Core.pdb
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Service\bin\Debug\netcoreapp3.1\DotnetcoreProject.Data.pdb
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Service\obj\Debug\netcoreapp3.1\DotnetcoreProject.Service.csprojAssemblyReference.cache
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Service\obj\Debug\netcoreapp3.1\DotnetcoreProject.Service.AssemblyInfoInputs.cache
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Service\obj\Debug\netcoreapp3.1\DotnetcoreProject.Service.AssemblyInfo.cs
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Service\obj\Debug\netcoreapp3.1\DotnetcoreProject.Service.csproj.CopyComplete
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Service\obj\Debug\netcoreapp3.1\DotnetcoreProject.Service.dll
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Service\obj\Debug\netcoreapp3.1\DotnetcoreProject.Service.pdb
