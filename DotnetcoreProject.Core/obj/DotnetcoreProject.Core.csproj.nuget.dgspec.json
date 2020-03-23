@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Core\\DotnetcoreProject.Core.csproj": {}
+    "c:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Core\\DotnetcoreProject.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Core\\DotnetcoreProject.Core.csproj": {
+    "c:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Core\\DotnetcoreProject.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Core\\DotnetcoreProject.Core.csproj",
+        "projectUniqueName": "c:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Core\\DotnetcoreProject.Core.csproj",
         "projectName": "DotnetcoreProject.Core",
-        "projectPath": "C:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Core\\DotnetcoreProject.Core.csproj",
+        "projectPath": "c:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Core\\DotnetcoreProject.Core.csproj",
         "packagesPath": "C:\\Users\\oguz.erten\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Core\\obj\\",
+        "outputPath": "c:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

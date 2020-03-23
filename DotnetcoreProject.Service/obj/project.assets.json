@@ -4922,11 +4922,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Service\\DotnetcoreProject.Service.csproj",
+      "projectUniqueName": "c:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Service\\DotnetcoreProject.Service.csproj",
       "projectName": "DotnetcoreProject.Service",
-      "projectPath": "C:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Service\\DotnetcoreProject.Service.csproj",
+      "projectPath": "c:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Service\\DotnetcoreProject.Service.csproj",
       "packagesPath": "C:\\Users\\oguz.erten\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Service\\obj\\",
+      "outputPath": "c:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4945,11 +4945,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Core\\DotnetcoreProject.Core.csproj": {
-              "projectPath": "C:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Core\\DotnetcoreProject.Core.csproj"
+            "c:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Core\\DotnetcoreProject.Core.csproj": {
+              "projectPath": "c:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Core\\DotnetcoreProject.Core.csproj"
             },
-            "C:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Data\\DotnetcoreProject.Data.csproj": {
-              "projectPath": "C:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Data\\DotnetcoreProject.Data.csproj"
+            "c:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Data\\DotnetcoreProject.Data.csproj": {
+              "projectPath": "c:\\Users\\oguz.erten\\source\\repos\\DotnetcoreProject.API\\DotnetcoreProject.Data\\DotnetcoreProject.Data.csproj"
             }
           }
         }
