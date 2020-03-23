@@ -5,4 +5,3 @@ C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Core\ob
 C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Core\obj\Debug\netcoreapp3.1\DotnetcoreProject.Core.AssemblyInfo.cs
 C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Core\obj\Debug\netcoreapp3.1\DotnetcoreProject.Core.dll
 C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Core\obj\Debug\netcoreapp3.1\DotnetcoreProject.Core.pdb
-C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Core\obj\Debug\netcoreapp3.1\DotnetcoreProject.Core.csprojAssemblyReference.cache

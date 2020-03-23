@@ -10,6 +10,7 @@ using DotnetcoreProject.Data;
 using DotnetcoreProject.Data.Repositories;
 using DotnetcoreProject.Data.UnitOfWorks;
 using DotnetcoreProject.Service.Services;
+using DotnetcoreProject.Web.ApiService;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -32,6 +33,10 @@ namespace DotnetcoreProject.Web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddHttpClient<CategoryApiService>(options =>
+            {
+                options.BaseAddress = new Uri(Configuration["baseUrl"]);
+            });
             services.AddAutoMapper(typeof(Startup));
             services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
             services.AddScoped(typeof(IService<>), typeof(Service.Services.Service<>));

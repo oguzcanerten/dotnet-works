@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using AutoMapper;
 using DotnetcoreProject.Core.Models;
 using DotnetcoreProject.Core.Service;
+using DotnetcoreProject.Web.ApiService;
 using DotnetcoreProject.Web.DTOs;
 using Microsoft.AspNetCore.Mvc;
 
@@ -14,15 +15,18 @@ namespace DotnetcoreProject.Web.Controllers
     {
         private readonly ICategoryService _categoryService;
         private readonly IMapper _mapper;
-        public CategoriesController(ICategoryService categoryService, IMapper mapper)
+        private readonly CategoryApiService _categoryApiService;
+
+        public CategoriesController(ICategoryService categoryService, IMapper mapper,CategoryApiService categoryApiService)
         {
             _categoryService = categoryService;
             _mapper = mapper;
+            _categoryApiService = categoryApiService;
         }
 
         public async Task<IActionResult> Index()
         {
-            var categories = await _categoryService.GetAllAsync();
+            var categories = await _categoryApiService.GetAllAsyncFromApi();
             return View(_mapper.Map<IEnumerable<CategoryDto>>(categories));
         }
 

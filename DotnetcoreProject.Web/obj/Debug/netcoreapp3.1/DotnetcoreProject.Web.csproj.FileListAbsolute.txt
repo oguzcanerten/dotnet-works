@@ -146,3 +146,4 @@ C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Web\bin
 C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Web\obj\Debug\netcoreapp3.1\DotnetcoreProject.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
 C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\oguz.erten\source\repos\DotnetcoreProject.API\DotnetcoreProject.Web\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Update.cshtml.g.cs
